@@ -1,16 +1,11 @@
 ### Hi there 👋
 
 ![gif](https://media3.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif)
-**mayurah/mayurah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on consume, produce, and engage.
+- 🌱 I’m currently learning https://ericbrooke.blog/2018/09/16/software-engineering-leadership/
+- 👯 I’m looking to collaborate on Former2
+- 🤔 I’m looking for help with phantom-app-dev-101
 - 💬 Ask me about photos and food
-- 📫 How to reach me: tweet
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me: https://twitter.com/mayurpipaliya
+- ⚡ Fun fact: aptitude moo
