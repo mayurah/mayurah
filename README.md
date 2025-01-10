@@ -31,8 +31,9 @@ Over the last 19+ years, I have formed and led teams of various sizes (from 1 to
 
 ## 🌟 My Core Beliefs
 
+> My actions are centered on user empathy, rapid iteration, continuous growth, ownership, collaboration, and inclusive culture.  
+
 - Builder and Innovator at Heart
-- Every action is centered on user empathy, rapid iteration, continuous growth, ownership, collaboration, and inclusive culture.  
 - Medium to Large Organization (5K-90K) - Splunk, Cisco:
   -  > I believe that sustained growth can lead to transformative, long-lasting impact.
 - Startup Perspective (10-5K) - BuildKit, WebCare360, Saint Peter's, HackerEarth:
@@ -41,7 +42,7 @@ Over the last 19+ years, I have formed and led teams of various sizes (from 1 to
 
 ## 🧠 Strategic and Executive Strengths
 
-> Provide clarity, spark energy, and drive successful outcomes.
+> Planning over Guesswork: Provide clarity, spark energy, and drive successful outcomes.
 
 - **Strategic Foresight**: Tackling complex challenges with vision.
 - **Product Innovation**: Delivering impactful solutions.
@@ -49,7 +50,7 @@ Over the last 19+ years, I have formed and led teams of various sizes (from 1 to
 
 ## 🎯 Leadership Style
 
-> Lead by example, coach for development, and care for team’s well-being.
+>  Execution over theory: Lead by example, coach for development, and care for team’s well-being.
 
 I am a **natural leader** who:
 - Shapes the vision.
