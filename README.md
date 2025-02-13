@@ -1,5 +1,5 @@
 ```js
-Last login: Wed Jan  8 16:36:23 2025 from 192.168.10.123
+Last login: Thu Feb  14 16:36:23 2025 from 192.168.10.123
 $  fortune | cowsay | lolcat
  _________________________________
 / Empathy, collaboration, growth, \
@@ -24,9 +24,15 @@ $  fortune | cowsay | lolcat
 
 ### Hi there 👋 This is Mayur Pipaliya. 
 
+At heart, I am a `hands-on builder` and `engineering practitioner`.
+
+I enjoy driving innovation, engineering excellence, and designing scalable architectures.
+
+Working on a most complex engineering problems gives me immense satisfaction; especially in space of fundamentals (availability, reliability, performance, and scalability), developer velocity (CD/CI, modern canary, and real user telemetry-based testing) and designing fault-tolerant, highly-available and low-latency control plane architectures. 
+
 I am a `situational servant leader` who is always curious, learning from everyone, and executing! 
 
-Over the last 19+ years, I have formed and led teams of various sizes (from 1 to 180+) and shapes, including product and engineering teams, engineering-only teams, forward-deployed customer engineering teams, and small but mighty groups of 8–10 delivering marvels.
+Over the last 20 years, I have served 2K+ engineering team while directly formed and led teams of various sizes (from 1 to 200+) and shapes, including product and engineering teams, engineering-only teams, forward-deployed customer engineering teams, and small but mighty groups of 8–10 delivering marvels.
 
 
 ## 🌟 My Core Beliefs
