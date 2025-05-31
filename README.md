@@ -50,8 +50,8 @@ Over the last 20 years, I have served 2K+ engineering team while directly formed
 
 > Planning over Guesswork: Provide clarity, spark energy, and drive successful outcomes.
 
-- **Strategic Foresight**: Tackling complex challenges with vision.
-- **Product Innovation**: Delivering impactful solutions.
+- **Strategic Foresight**: Owning the outcome; Tackling complex challenges with vision.
+- **Product Innovation**: Delivering multipliers and impactful solutions that customers care about.
 - **Executive Leadership**: Driving alignment and business success.
 
 ## 🎯 Leadership Style
