@@ -1,5 +1,5 @@
 ```js
-Last login: Thu Feb  14 16:36:23 2025 from 192.168.10.123
+
 $  fortune | cowsay | lolcat
  _________________________________
 / Empathy, collaboration, growth, \
@@ -26,7 +26,7 @@ $  fortune | cowsay | lolcat
 
 At heart, I am a `hands-on builder` and `engineering practitioner`.
 
-I enjoy driving innovation, engineering excellence, and designing scalable architectures.
+I enjoy driving innovation, engineering excellence, and designing scalable products that users adore.
 
 Working on a most complex engineering problems gives me immense satisfaction; especially in space of fundamentals (availability, reliability, performance, and scalability), developer velocity (CD/CI, modern canary, and real user telemetry-based testing) and designing fault-tolerant, highly-available and low-latency control plane architectures. 
 
@@ -37,7 +37,7 @@ Over the last 20 years, I have served 2K+ engineering team while directly formed
 
 ## 🌟 My Core Beliefs
 
-> My actions are centered on user empathy, rapid iteration, continuous growth, ownership, collaboration, and inclusive culture.  
+> My actions are centered on user empathy, rapid iteration, consistency, continuous growth, ownership, collaboration, and inclusive culture.  
 
 - Builder and Innovator at Heart
 - Medium to Large Organization (5K-90K) - Splunk, Cisco:
